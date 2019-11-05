@@ -1,0 +1,16 @@
+@font-family {
+	src: url(../font/GurlimShake.ttf);
+	font-family: 'GurlimShake';
+	font-weight: bold;
+}
+
+.heading h1{
+	font-size: 45px;
+	font-weight: normal;
+}
+.paragraph p {
+
+}
+.paragraph-two p {
+
+}
