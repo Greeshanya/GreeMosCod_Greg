@@ -58,8 +58,9 @@
 	width: 1400px;
 	height: 80px;
 	left: 40px;
-	top: 15px;
+	top: 40px;
 
+	align-items: center;
 	font-family: Arial;
 	font-size: 25px;
 
